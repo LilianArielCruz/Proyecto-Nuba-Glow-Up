@@ -1,0 +1,20 @@
+{
+  "name": "nubaglow-landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page Oficial para NubaGlow App (by Nuba Beauty)",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "nubaglow",
+    "beauty-tech",
+    "bolivia",
+    "skincare",
+    "qr-simple",
+    "tailwind"
+  ],
+  "author": "Nuba Beauty",
+  "license": "MIT"
+}
